@@ -80,7 +80,6 @@ class PlayerData {
 
         // Concatenating All Results
         String result = "${topBatsman}\n${topBowler}\n${topAllrounder}"
-
         // Writing Data to File
         String outputFilePath = "/home/tracxn-lp-458/IdeaProjects/Groovy_Assignment_Subham/src/Document/PlayerPositionOutput"
         File playerOutputFile = new File(outputFilePath)
