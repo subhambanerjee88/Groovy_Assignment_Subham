@@ -1,0 +1,13 @@
+Positions=Batsman,Bowler,Allrounder
+Batsman=2,Bowler=2,Allrounder=1
+Player_Count=10
+Sourav,Allrounder,40.73,73.71,38.49,45.61
+Sachin,Batsman,44.83,86.24,44.48,52.3
+Anil,Bowler,10.54,61.07,30.9,43.01
+Zaheer,Bowler,12,73.47,29.44,35.8
+Rahul,Batsman,39.17,71.24,42.5,46.5
+Laxman,Batsman,30.76,71.24,0,0
+Irfan,Allrounder,23.39,79.55,29.73,33.84
+Yuvraj,Allrounder,36.56,87.68,38.68,45.48
+Virender,Batsman,35.06,104.34,40.14,45.75
+Harbhajan,Bowler,13.3,81.06,33.36,46.39
